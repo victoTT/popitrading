@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iShield2005/scripts/master/shieldhubloader"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/victor31/scripts/master/shieldhubloader"))()
